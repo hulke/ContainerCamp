@@ -1,7 +1,7 @@
 
 
 # Windows Containers on Windows Server
-Let's set the stage, we want to deploy a VM into Azure. This VM will be a Windows 2016 Server TP5 without docker. After this is deployed we will follow the manual steps to setup Windows Containers and Docker. 
+Let's set the stage, we want to deploy a VM into Azure. This VM will be a Windows 2016 Server without docker. After this is deployed we will follow the manual steps to setup Windows Containers and Docker. 
 
 1. Have a look at the [WindowsVirtualMachine.json](WindowsVirtualMachine.json) file that we will be deploying.
 

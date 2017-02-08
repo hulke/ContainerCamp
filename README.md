@@ -19,7 +19,7 @@ This lab will get you familiar with using the Azure CLI for deploying resources 
 ## Lab Two: Run Docker on a VM in Azure ##
 In this lab you will use the VM setup in lab one, but in this lab we will focus on using docker... We'll deploy nginx and hit the default website from a browser.
 
-* [Deploy a Docker VM using the Quick Start Template](labtwo/deploy-docker-vm.md)
+* [Run Docker on the VM you just created to deploy containers](labtwo/deploy-docker-vm.md)
 
 ## Lab Three: Getting to Know the Azure Marketplace
 In this lab you will deploy nginx as a container on Ubuntu again, but this time leveraging the options in the Azure Marketplace.
@@ -27,7 +27,7 @@ In this lab you will deploy nginx as a container on Ubuntu again, but this time 
 * [Deploy a container on VM using the Azure Marketplace](labthree/azure-marketplace.md)
 
 ## Lab Four: Configure a Windows Container Host ##
-In this lab you will build a Windows 2016 Server TP5 Container Host and deploy Windows containers.
+In this lab you will build a Windows 2016 Server Container Host and deploy Windows containers.
 
 * [Windows Containers on Windows Server](labfour/windows-containers.md)
 
