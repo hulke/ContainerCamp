@@ -17,21 +17,21 @@ This lab will get you familiar with using the Azure CLI for deploying resources 
 * [Deploy a simple Linux VM using the Quick Start Templates and the Azure CLI](labone/deploy-simple-linux.md)
 
 ## Lab Two: Run Docker on a VM in Azure ##
-In this lab you will setup a VM like in labone, but it will have docker... We'll deploy nginx and hit the default website from a browser.
+In this lab you will use the VM setup in lab one, but in this lab we will focus on using docker... We'll deploy nginx and hit the default website from a browser.
 
 * [Deploy a Docker VM using the Quick Start Template](labtwo/deploy-docker-vm.md)
 
-## Lab Three: Configure a Windows Container Host ##
+## Lab Three: Getting to Know the Azure Marketplace
+In this lab you will deploy nginx as a container on Ubuntu again, but this time leveraging the options in the Azure Marketplace.
+
+* [Deploy a container on VM using the Azure Marketplace](labthree/azure-marketplace.md)
+
+## Lab Four: Configure a Windows Container Host ##
 In this lab you will build a Windows 2016 Server TP5 Container Host and deploy Windows containers.
 
-* [Windows Containers on Windows Server](labthree/windows-containers.md)
+* [Windows Containers on Windows Server](labfour/windows-containers.md)
 
-## Lab Four: Setup Docker Swarm and Deploy Some Containers ##
-In this lab you will deploy Docker with swarm mode, using docker-machine to deploy to Azure. Once you have a swarm you will deploy some things to it...
-
-* [Deploy Docker using swarm mode](labfour/deploy-docker-swarm.md)
-
-## OPTIONAL - Lab Five: Setup Azure Container Service ##
+## Lab Four: Setup Azure Container Service ##
 In this lab we'll look at Microsoft Azure's Container as a Service solution called: Azure Container Service (ACS).
 
 * [Deploy Azure Container Service](labfive/deploy-acs.md)
