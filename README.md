@@ -31,7 +31,7 @@ In this lab you will build a Windows 2016 Server Container Host and deploy Windo
 
 * [Windows Containers on Windows Server](labfour/windows-containers.md)
 
-## Lab Four: Setup Azure Container Service ##
+## Lab Five: Setup Azure Container Service ##
 In this lab we'll look at Microsoft Azure's Container as a Service solution called: Azure Container Service (ACS).
 
 * [Deploy Azure Container Service](labfive/deploy-acs.md)
