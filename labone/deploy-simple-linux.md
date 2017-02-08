@@ -33,7 +33,7 @@ A resource group is a grouping of Azure resouces that can be managed and secured
 
 **Create a resource group from the Azure-CLI:**
 
-Note: The Azure CLI commands should be run from a Command Prompt
+Note: The Azure CLI commands should be run from a **Command Prompt**
 
     azure group create {RESOURCE GROUP NAME} eastus
 
